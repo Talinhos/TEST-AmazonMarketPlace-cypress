@@ -2,7 +2,7 @@
 
 >For automation, 5 tests were defined using the search engine and adding to the shopping cart and validating
 
-1. Search for a product and apply the <Free Shipping> selection filter
+1. Search for a product and apply the (Free Shipping) selection filter
 2. Search for a product in the search field, check if the suggested suggestion quantity is equal to 10
 3. Search for a product added to the pre-configured quantity in the shopping cart and confirm that the result agrees
 4. Search for a product, add it to the cart, change the quantity and check if it is correct
